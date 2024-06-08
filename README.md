@@ -17,4 +17,5 @@
   <li>The project uses Apache Tomcat;</li>
 </ul>
 <h3>Use Case</h3>
-![Index Page - Personal - Microsoft​ Edge 08-06-2024 14_40_00](https://github.com/dkpanigrahi/Enotes/assets/169013062/425ca7cd-3eb6-4897-8f91-a3ba80b25bc1.png)
+
+
